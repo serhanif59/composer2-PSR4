@@ -1,0 +1,16 @@
+{
+    "name": "ali/composer2-psr4",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "serhanif59",
+            "email": "aliserhani@numericable.fr"
+        }
+    ],
+    "require": {}
+}
